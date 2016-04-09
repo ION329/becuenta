@@ -1,0 +1,81 @@
+.m0{
+	margin: 0;
+}
+
+.btMenPpeBlue							{ background:#384349; width:70%;  margin:0 auto; border-bottom:solid 1px #666666; }
+.btMenPpeBlue:hover						{ background:#3a5462; color:#FFF; }
+.btMenPpeBlue.selo						{ background:#4d90fe;  }
+
+.fv_btn2x {
+    background-color: #25b76c !important;
+    color: #fff !important;
+    font-weight: 400 !important;
+    text-transform: none !important;
+}
+
+.colorVerde5{
+	color: #25b76c;
+}
+
+.bVerde5{
+	background-color: #25b76c;	
+}
+
+.dI{
+	display: inline;
+}
+
+.btn-bykr {
+    padding: 5px 16px;
+}
+
+.pR{
+	position: relative;
+}
+
+.pA{
+	position: absolute;
+}
+
+.imgAbs{
+	width: 60px;
+}
+
+.menu-bykr li.active > a{
+	color: white !important;
+	background-color: #48a8b8 !important;
+	border-radius: 5px;
+}
+
+.menu-bykr li > a:hover{
+	border-radius: 5px;
+}
+
+.pMenu{
+	padding-right: 40px !important;
+	padding-left: 40px !important;
+}
+
+.menu-bykr2 li.active > a{
+	color: #333 !important;
+	background-color: white !important;
+}
+
+.pMenu2{
+	padding-right: 50px !important;
+	padding-left: 50px !important;
+}
+
+.minMensaje2 								{ background-color: white; }
+.leyendoMensaje2							{ background-color: #fcefc4; }
+
+.selecStd2 {
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+    width: 100%;
+}
+
+.input-bykr:focus{
+	border-color: #ccc !important;
+	box-shadow: none !important;
+}

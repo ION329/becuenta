@@ -23,8 +23,16 @@
         	</div>
         </div>
     </div>
+
+    <div class="col-sm-2 col-xs-2 p0 hH bWhite cP">
+    	<div class="tabAll">
+        	<div class="tabIn t24 ff1 color999 p20">
+            	<a href="#/mentoria">Mentoría</a>
+        	</div>
+        </div>
+    </div>
     
-	<div class="col-sm-4 col-xs-4 hH"></div>
+	<div class="col-sm-2 col-xs-2 hH"></div>
     
     <div class="col-sm-2 col-xs-2 hH">   
        <div class="tabAllMenHeader2 efeHov">

@@ -192,7 +192,23 @@ var Buena_educacion = {
 			templateUrl: 'view/plataforma/admin/zonas/eventos/index.php',
 			controller: 'control_init'
 
-
+//MENTORIA
+//////// MENTORIA
+			}).when('/mentoria', {
+			templateUrl: 'view/mentoria/mentoria.php',
+			controller: 'control_init'
+//////// AGENDA			
+			}).when('/mentoria/agenda', {
+			templateUrl: 'view/mentoria/agenda.php',
+			controller: 'control_init'
+//////// CURSOS CREADOS			
+			}).when('/mentoria/cursos', {
+			templateUrl: 'view/mentoria/cursos.php',
+			controller: 'control_init'
+//////// RECURSOS			
+			}).when('/mentoria/recursos', {
+			templateUrl: 'view/mentoria/recursos.php',
+			controller: 'control_init'			
 
 
 // VACÍO

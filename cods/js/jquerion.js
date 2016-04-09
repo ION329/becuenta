@@ -37,6 +37,12 @@ var Ion = {
 				$('.dCambiar2').slideToggle(500);
 		  	});
 
+		  	$(".bBeycker").live('click', function() {
+				$('.dBeycker1').slideToggle(500);
+				$('.dBeycker2').slideToggle(500);
+		  	});
+
+
 			$(".bAbrir1").live('click', function() {
 				$('.dAbre1').slideToggle(500);
 		  	});
@@ -59,6 +65,11 @@ var Ion = {
 			$(".minMensaje").live('click', function() {
 				$('.minMensaje').removeClass("leyendoMensaje");
 				$(this).addClass("leyendoMensaje");
+			});
+
+			$(".minMensaje2").live('click', function() {
+				$('.minMensaje2').removeClass("leyendoMensaje2");
+				$(this).addClass("leyendoMensaje2");
 			});
 
 			$(".optMenLat").live('click', function() {

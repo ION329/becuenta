@@ -3,6 +3,7 @@
 
 <link rel="stylesheet" type="text/css" href="cods/css/bootstrap.css">
 <link rel="stylesheet" type="text/css" href="cods/css/cssion.css">
+<link rel="stylesheet" type="text/css" href="cods/css/beycker.css">
 <link rel="stylesheet" type="text/css" href="cods/css/responsion.css">
 <link rel="stylesheet" type="text/css" href="cods/css/normalize.css" />
 <link rel="stylesheet" type="text/css" href="cods/css/component.css" />
