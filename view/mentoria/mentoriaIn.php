@@ -1,4 +1,4 @@
-<div class="barraAzul">
+<div class="barraRoja">
 	<div class="row" style="margin:0">
         <div class="col-sm-2 col-xs-2 p0">
         </div>
@@ -37,48 +37,56 @@
 
         <div class="col-sm-10 col-xs-10 p20">
             
-            <div class="ionix"b style="padding-top:20px;">
+            <div class="ionix" style="padding-top:20px;">
                 <div class="generalMin-ojo">
                 
                 <div class="dBeycker1">
 
                     <div class="row m0">
-                        <div class="col-xs-12 col-sm-12"><div class="colorfff t40 mb20">Panel del Mentor</div></div>
+                        <div class="col-xs-12 col-sm-12 ff11"><div class="colorfff t40 mb20">Panel del Mentor</div></div>
                     </div>
                     <div class="row m0" style="margin-bottom: 20px">
                         <div class="col-xs-8 col-sm-8 vcenter">
                             <div class="bWhite p20 rr5">
-                                <div class="titSep3">
-                                    <div class="tab">
-                                        <div class="tabIn">
-                                            <div class="t30 mb10">Hola Andrés</div>
-                                            <div class="t20 color666">Tu proxima clase sera en:</div>
-                                        </div>
-                                        <div class="tabIn taR">
-                                            <div><span class="t50 colorVerde5 ff2 mb10">02:40:35</span></div>
-                                            <div class="color999"><span>Horas</span> &nbsp; <span>Minutos</span> &nbsp; <span>Segundos</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="row m0" style="margin-bottom: 20px">
-                                    <div class="col-xs-2 col-sm-2 p0 taC">
-                                        <img src="resources/img/demo/profesor.png" width="80" />
-                                    </div>
-
-                                    <div class="col-xs-10 col-sm-10 p0">
-                                        <div class="t18 ff2 mb5">Victor Ramirez</div>
-                                        <div class="color666 mb5"><span><img src="resources/img/icons/tarde.png" /> 16 clases realizadas </span> &nbsp;&nbsp;&nbsp;&nbsp; <span><img src="resources/img/icons/excel.png" /> 10 Actividades </span></div>
-                                        <div class="t16"><span class="color333">Tema para ver: </span><span class="color999">Acceso y Navegacion en el sistema SAP</span></div>
-                                    </div>
-                                </div>
 
                                 <div class="row m0">
-                                    <div class="col-xs-2 col-xs-2 p0"></div>
-                                    <div class="col-xs-10 col-xs-10 p0">
-                                        <a class="bBasic3 rr20 taC fv_btn2x" href="">Resumen de la clase</a>
+                                    <div class="col-xs-12 col-sm-12">
+                                        
+                                        <div class="titSep3">
+                                            <div class="tab">
+                                                <div class="tabIn">
+                                                    <div class="t30 mb10">Hola Andrés</div>
+                                                    <div class="t20 color666">Tu proxima clase sera en:</div>
+                                                </div>
+                                                <div class="tabIn taR">
+                                                    <div><span class="t50 colorVerde5 ff2 mb10">02:40:35</span></div>
+                                                    <div class="color999"><span>Horas</span> &nbsp; <span>Minutos</span> &nbsp; <span>Segundos</span></div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="row m0" style="margin-bottom: 20px">
+                                            <div class="col-xs-2 col-sm-2 p0 taC">
+                                                <img src="resources/img/demo/profesor.png" width="80" />
+                                            </div>
+
+                                            <div class="col-xs-10 col-sm-10 p0">
+                                                <div class="t18 ff2 mb5">Victor Ramirez</div>
+                                                <div class="color666 mb5"><span><img src="resources/img/icons/tarde.png" /> 16 clases realizadas </span> &nbsp;&nbsp;&nbsp;&nbsp; <span><img src="resources/img/icons/excel.png" /> 10 Actividades </span></div>
+                                                <div class="t16"><span class="color333">Tema para ver: </span><span class="color999">Acceso y Navegacion en el sistema SAP</span></div>
+                                            </div>
+                                        </div>
+
+                                        <div class="row m0">
+                                            <div class="col-xs-2 col-xs-2 p0"></div>
+                                            <div class="col-xs-10 col-xs-10 p0">
+                                                <a class="bBasic3 rr20 taC fv_btn2x" href="">Resumen de la clase</a>
+                                            </div>
+                                        </div>
+
                                     </div>
                                 </div>
+
 
                             </div>
                         </div><!--
@@ -132,7 +140,7 @@
                                 </div>
 
                                 <div class="row m0 taR">
-                                    <a class="bBasic3 rr20 taC fv_btn2x" href="">Ver Agenda</a>
+                                    <a class="bBasic3 rr20 taC fv_btn2x" href="#/mentoria/agenda">Ver Agenda</a>
                                 </div>
                             </div>
                         </div>
@@ -140,7 +148,7 @@
 
                     <div class="row m0">
                         <div class="col-xs-12 col-sm-12 mb20">
-                            <span class="tU ff2">Mis Mentorias</span>    
+                            <span class="ff2 t18">Mis Mentorias</span>    
                         </div>
                         
                         <?php for($xx=0; $xx<3; $xx++){ ?>
@@ -151,11 +159,11 @@
                                 <div class="colorAzulBE t20 ff2 mb10">Federico Perlaza</div>
                                 <div class="color999">Ultima clase: Feb. 18 de 2016</div>
                                 <hr>
-                                <div class="tab mb10">
+                                <div class="tab mb10 pLR20">
                                     <div class="tabIn color999 taL">Minutos en mentoria</div>
                                     <div class="tabIn taR ff2 t16">240</div>
                                 </div>
-                                <div class="tab mb10">
+                                <div class="tab mb10 pLR20">
                                     <div class="tabIn color999 taL">Participa desde</div>
                                     <div class="tabIn taR ff2 t16">Feb. 2016</div>
                                 </div>
@@ -178,7 +186,7 @@
                     </div>
 
                     <div class="row m0">
-                        <div class="col-xs-4 col-sm-4">
+                        <div class="col-xs-4 col-sm-4" style="padding-right: 0px">
                             <div class="bWhite p20 rr5">
                                 <div class="mb20 taC"><img src="resources/img/demo/profesor.png" width="180" /></div>
                                 <div class="t20 ff2 mb10">Federico Perlaza</div>
@@ -221,7 +229,7 @@
                             </div>
                         </div>
 
-                        <div class="col-xs-8 col-sm-8 mb30">
+                        <div class="col-xs-8 col-sm-8 mb20">
                             <div class="bWhite p20 rr5">
                                 <div class="tab bGray3 rr5 p10 mb10">
                                     <div class="tabIn">

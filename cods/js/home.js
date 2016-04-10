@@ -191,12 +191,29 @@ var Buena_educacion = {
 			}).when('/plataforma/admin/eventos', {
 			templateUrl: 'view/plataforma/admin/zonas/eventos/index.php',
 			controller: 'control_init'
-
+//INVIERTA YA
+//////// MI CAMPAÑA
+			}).when('/inviertaya', {
+			templateUrl: 'view/inviertaya/micampana.php',
+			controller: 'control_init'
+//////// INVERSIONES
+			}).when('/inviertaya/inversiones', {
+			templateUrl: 'view/inviertaya/inversiones.php',
+			controller: 'control_init'
+//////// ACTIVIDAD
+			}).when('/inviertaya/actividad', {
+			templateUrl: 'view/inviertaya/actividad.php',
+			controller: 'control_init'
+//////// RECOMPENSAS
+			}).when('/inviertaya/recompensas', {
+			templateUrl: 'view/inviertaya/recompensas.php',
+			controller: 'control_init'								
 //MENTORIA
 //////// MENTORIA
 			}).when('/mentoria', {
 			templateUrl: 'view/mentoria/mentoria.php',
 			controller: 'control_init'
+
 //////// AGENDA			
 			}).when('/mentoria/agenda', {
 			templateUrl: 'view/mentoria/agenda.php',

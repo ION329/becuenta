@@ -1,4 +1,4 @@
-<div class="barraAzul">
+<div class="barraRoja">
 	<div class="row" style="margin:0">
         <div class="col-sm-2 col-xs-2 p0">
         </div>
@@ -37,11 +37,11 @@
 
         <div class="col-sm-10 col-xs-10 p20">
             
-            <div class="ionix"b style="padding-top:20px;">
+            <div class="ionix" style="padding-top:20px;">
                 <div class="generalMin-ojo">
                 
-                <div class="row m0" style="margin-bottom: 20px;">
-                    <div class="col-xs-6 col-sm-6 vcenter"><div class="colorfff t40 mb20">Mis Recursos  </div></div><!--
+                <div class="row m0" style="margin-bottom: 40px;">
+                    <div class="col-xs-6 col-sm-6 vcenter ff11"><div class="colorfff t40">Mis Recursos  </div></div><!--
                 --><div class="col-xs-6 col-sm-6 taR vcenter">
                         <a class="bBasic3 rr5 taC fv_btn2x" href="">Subir un Archivo</a>
                     </div>

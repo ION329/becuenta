@@ -6,6 +6,10 @@
 .btMenPpeBlue:hover						{ background:#3a5462; color:#FFF; }
 .btMenPpeBlue.selo						{ background:#4d90fe;  }
 
+.btMenPpeYellow							{ background:#384349; width:70%;  margin:0 auto; border-bottom:solid 1px #666666; }
+.btMenPpeYellow:hover					{ background:#3a5462; color:#FFF; }
+.btMenPpeYellow.selo					{ background:#ffe42c;  }
+
 .fv_btn2x {
     background-color: #25b76c !important;
     color: #fff !important;
@@ -79,3 +83,23 @@
 	border-color: #ccc !important;
 	box-shadow: none !important;
 }
+
+.btn-radius-bykr {
+    border-radius: 14px !important;
+}
+
+.fv_amp > tr > td, thead.fv_amp > tr > th  {
+    border-top: 1px solid transparent !important;
+    border-bottom: 1px solid transparent !important;
+}
+
+.bAzulLImp{
+	background-color: #e5f6fe !important;
+}
+
+.bWhiteImp{
+	background-color: #fff !important;
+}
+
+.barraAmarilla								{ background:#25b76c; width:100%; height:auto; position:absolute; z-index:10 }
+.barraRoja									{ background:#9a000f; width:100%; height:auto; position:absolute; z-index:10 }

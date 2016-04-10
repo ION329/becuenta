@@ -1,4 +1,4 @@
-<div class="barraAzul">
+<div class="barraRoja">
 	<div class="row" style="margin:0">
         <div class="col-sm-2 col-xs-2 p0">
         </div>
@@ -37,13 +37,13 @@
 
         <div class="col-sm-10 col-xs-10 p20">
             
-            <div class="ionix"b style="padding-top:20px;">
+            <div class="ionix" style="padding-top:20px;">
                 <div class="generalMin-ojo">
 
                 <div class="dBeycker1">
                 
-                <div class="row m0" style="margin-bottom: 20px;">
-                    <div class="col-xs-6 col-sm-6 vcenter"><div class="colorfff t40 mb20">Panel de Cursos</div></div><!--
+                <div class="row m0" style="margin-bottom: 40px;">
+                    <div class="col-xs-6 col-sm-6 ff11 vcenter"><div class="colorfff t40">Panel de Cursos</div></div><!--
                 --><div class="col-xs-6 col-sm-6 vcenter taR">
                         <a class="bBasic3 rr5 taC fv_btn2x" href="">Crear un Curso</a>
                     </div>
@@ -64,18 +64,18 @@
                                 </div>
                             </div>
 
-                            <div class="t16 color999 p20">
+                            <div class="color999 p20">
                                 <div class="taC mb20">
                                     Alejandro Martinez <br>
                                     Comunicador Grafico
                                 </div>
 
-                                <div class="t20 ff2 color000">
+                                <div class="t20 color000 pLR20">
                                     Google Adwords <br>
                                     para principiantes
                                 </div>
                                 <hr>
-                                <div>
+                                <div class="pLR20">
                                     20 Reproduciones <br>
                                     56 Comentarios
                                 </div>
@@ -104,13 +104,13 @@
                                     <img src="resources/img/temporal/pingui.png" width="80%" />
                                 </div>
                                 <div class="col-xs-4 col-sm-4 p0">
-                                    <div class="ff2 t18 mb10">Aprende a editar imagenes con Adobe Photoshop</div>
+                                    <div class="ff2 t16 mb10">Aprende a editar imagenes con Adobe Photoshop</div>
                                     <div class="color666">Andres Ospina</div>
                                 </div>
                                 <div class="col-xs-3 col-sm-3">
-                                    <div class="color666 t16">Temas Creados</div>
+                                    <div class="color666">Temas Creados</div>
                                     <div class="t50">5</div>
-                                    <div class="color000 t16">(Maximo 10)</div>
+                                    <div class="color000">(Maximo 10)</div>
                                 </div>
                                 <div class="col-xs-3 col-sm-3 p0">
                                     <div class="color666 mb10">Tu curso <span class="colorRed"> no se ha publicado</span></div>

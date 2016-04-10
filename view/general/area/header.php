@@ -19,7 +19,7 @@
     <div class="col-sm-2 col-xs-2 p0 hH bWhite">
     	<div class="tabAll">
         	<div class="tabIn t24 ff1 color999 p20">
-            	InviertaYa
+            	<a href="#/inviertaya">InviertaYa</a>
         	</div>
         </div>
     </div>
