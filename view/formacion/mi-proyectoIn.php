@@ -18,21 +18,25 @@
                 Perfil
             </a>
             <a href="#/mi-proyecto" class="btMenPpe selo dB taC p20 colorfff">
+            	<div class="taR"><span class="colorfff bAzulBG t12 rr50" style="padding: 10px 3px; margin-right: 17px;">100%</span></div>
                 <img src="resources/img/icons/a22.png" />
                 <br /><br />
                 Mi Proyecto
             </a>
             <a href="#/mis-cursos" class="btMenPpe dB taC p20 colorfff">
+            	<div class="taR"><span class="colorfff bVerde2 t12 rr50" style="padding: 10px 15px; margin-right: 17px;">5</span></div>
                 <img src="resources/img/icons/a3.png" />
                 <br /><br />
                 Mis Cursos
             </a>
             <a href="#/foros" class="btMenPpe dB taC p20 colorfff">
+            	<div class="taR"><span class="colorfff bYell t12 rr50" style="padding: 10px 15px; margin-right: 17px;">8</span></div>
                 <img src="resources/img/icons/a4.png" />
                 <br /><br />
                 Foros
             </a>
             <a href="#/eventos" class="btMenPpe dB taC p20 colorfff">
+            	<div class="taR"><span class="colorfff bRed t12 rr50" style="padding: 10px 15px; margin-right: 17px;">8</span></div>
                 <img src="resources/img/icons/a5.png" />
                 <br /><br />
                 Eventos
@@ -203,7 +207,7 @@
 										<div class="row m0 bWhite">
 											<div class="col-xs-7 col-sm-7 p0">
 												<div class="bS1" style="margin-top: -1px">
-													<div class="row m0 p20 minMensaje3 cP leyendoMensaje3">
+													<div class="row m0 p20 minMensaje3 cP">
 
 														<div class="col-xs-10 col-sm-10" style="padding-left: 0px">
 															<div class="mb10">
@@ -393,7 +397,7 @@
 						
 						<div class="row m0" style="margin-bottom: 20px">
 							<div class="col-xs-12 col-sm-12 color666">
-								<span class="bBeycker">Formacion Diplomados - <b>Unidad 1</b></span>
+								<div class="cP bBeycker dIB"><img class="bGray3 rr50" src="resources/img/icons/arR.png" style="padding: 2px 6px"> &nbsp; Formacion Diplomados - <b>Unidad 1</b></div>
 							</div>
 						</div>
 
@@ -453,7 +457,7 @@
 													<div id="onbs<?= $ss ?>" class="panel-collapse collapse">
 														<div class=" bS1" style="margin-bottom:-1px; border-top: 1px solid transparent">
 
-															<div class="p10 m0 row minMensaje4 cP leyendoMensaje4">
+															<div class="p10 m0 row minMensaje3 cP">
 																<div class="row m0">	
 																	<div class="col-sm-1 col-xs-1">
 	                                                    				
@@ -469,7 +473,7 @@
 														
 														<div class="bS1" style="margin-bottom:-1px;">
 
-															<div class="p10 row m0 cP minMensaje4">
+															<div class="p10 row m0 cP minMensaje3">
 																<div class="row m0">
 																	<div class="col-sm-1 col-xs-1">
 	                                                    				
@@ -484,7 +488,7 @@
 														</div>
 
 														<div class="bS1" style="margin-bottom:-1px;">
-															<div class="p10 row m0 cP minMensaje4">
+															<div class="p10 row m0 cP minMensaje3">
 																<div class="row m0">
 																	<div class="col-sm-1 col-xs-1">
 	                                                    				
@@ -500,7 +504,7 @@
 
 														<div class="bS1" style="margin-bottom:-1px;">
 
-															<div class="p10 m0 row cP minMensaje4">
+															<div class="p10 m0 row cP minMensaje3">
 																<div class="row m0">
 																	<div class="col-sm-1 col-xs-1">
 	                                                    				

@@ -74,10 +74,13 @@
 .leyendoMensaje2							{ background-color: #fcefc4; }
 
 .minMensaje3 								{ border-right:solid 3px transparent !important; }
-.leyendoMensaje3							{ border-right:solid 3px #4184f3 !important; }
+.minMensaje3:hover							{ border-right:solid 3px #4184f3 !important; background-color: #fafafa}
 
-.minMensaje4 								{ border-right:solid 3px transparent !important; }
-.leyendoMensaje4							{ border-right:solid 3px #4184f3 !important; }
+.bykrHober:hover							{ background-color: #f7f7f7; }
+.bykrHober2:hover							{ background-color: #CEE3F6; }
+
+.bykrHober3									{ border: 1px solid transparent; }
+.bykrHober3:hover							{ background-color: #E0ECF8; border: 1px solid #25b76c; }
 
 .selecStd2 {
     border: 1px solid #ccc;

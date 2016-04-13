@@ -18,21 +18,25 @@
                 Perfil
             </a>
             <a href="#/mi-proyecto" class="btMenPpe dB taC p20 colorfff">
+                <div class="taR"><span class="colorfff bAzulBG t12 rr50" style="padding: 10px 3px; margin-right: 17px;">100%</span></div>
                 <img src="resources/img/icons/a2.png" />
                 <br /><br />
                 Mi Proyecto
             </a>
             <a href="#/mis-cursos" class="btMenPpe selo dB taC p20 colorfff">
+                <div class="taR"><span class="colorfff bVerde2 t12 rr50" style="padding: 10px 15px; margin-right: 17px;">5</span></div>
                 <img src="resources/img/icons/a33.png" />
                 <br /><br />
                 Mis Cursos
             </a>
             <a href="#/foros" class="btMenPpe dB taC p20 colorfff">
+                <div class="taR"><span class="colorfff bYell t12 rr50" style="padding: 10px 15px; margin-right: 17px;">8</span></div>
                 <img src="resources/img/icons/a4.png" />
                 <br /><br />
                 Foros
             </a>
             <a href="#/eventos" class="btMenPpe dB taC p20 colorfff">
+                <div class="taR"><span class="colorfff bRed t12 rr50" style="padding: 10px 15px; margin-right: 17px;">8</span></div>
                 <img src="resources/img/icons/a5.png" />
                 <br /><br />
                 Eventos
@@ -136,9 +140,7 @@
                         
                         <div class="row m0" style="margin-bottom: 20px">
                             <div class="col-xs-12 col-sm-12 color666">
-                                <span class="bBeycker">
-                                    Formacion - Cursos - <b>Google AdWords para principiantes</b>
-                                </span>
+                                <div class="bBeycker dIB cP"><img class="bGray3 rr50" style="padding: 2px 6px" src="resources/img/icons/arR.png"> &nbsp; Formacion - Cursos - <b>Google AdWords para principiantes</b></div>
                             </div>
                         </div>
 
@@ -161,10 +163,10 @@
                         <div class="row m0">
                             <div class="col-xs-7 col-sm-7">
                                 <?php for($ww=0; $ww<4; $ww++){ ?>
-                                <div class="row m0 bWhite p10 bS1" style="margin-top: -1px">
+                                <div class="row m0 bWhite p10 bS1 cP bykrHober2" style="margin-top: -1px">
                                     <div class="col-xs-12 col-sm-12 ff2"><img src="resources/img/icons/mE22.png" class="bVerde5 rr50 p3"> &nbsp;&nbsp; <span class="dIB">Introduccion al Google AdWords</span></div>
                                 </div>
-                                <div class="row m0 bWhite p10 bS1" style="margin-top: -1px">
+                                <div class="row m0 bWhite p10 bS1 cP bykrHober2" style="margin-top: -1px">
                                     <div class="col-xs-12 col-sm-12 ff2"><img src="resources/img/icons/mE22.png" class="bVerde5 rr50 p3"> &nbsp;&nbsp; <span class="dIB">¿Como crear una cuenta en Google AdWords?</span></div>
                                 </div>
                                 <?php } ?>

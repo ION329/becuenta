@@ -18,16 +18,19 @@
                 Mi Campaña
             </a>
             <a href="#/inviertaya/inversiones" class="btMenPpeYellow selo dB taC p20 colorfff">
+                <div class="taR"><span class="colorfff bAzulBG t12 rr50" style="padding: 10px 3px; margin-right: 17px;">100%</span></div>
                 <img src="resources/img/icons/a22.png" />
                 <br /><br />
                 Inversiones
             </a>
             <a href="#/inviertaya/actividad" class="btMenPpeYellow dB taC p20 colorfff">
+                <div class="taR"><span class="colorfff bVerde2 t12 rr50" style="padding: 10px 15px; margin-right: 17px;">5</span></div>
                 <img src="resources/img/icons/a3.png" />
                 <br /><br />
                 Actividad
             </a>
             <a href="#/inviertaya/recompensas" class="btMenPpeYellow dB taC p20 colorfff">
+                <div class="taR"><span class="colorfff bVerde2 t12 rr50" style="padding: 10px 15px; margin-right: 17px;">5</span></div>
                 <img src="resources/img/icons/a3.png" />
                 <br /><br />
                 Recompensas
@@ -40,11 +43,11 @@
             <div class="ionix" style="padding-top:20px;">
                 <div class="generalMin-ojo">
 
-                    <div class="row m0">
-                        <div class="col-xs-12 col-sm-12 ff11"><div class="colorfff t40 mb20">Bienvenido Andrés a Invierta YA</div></div>
-                    </div>
-
                     <div class="dBeycker1">
+
+                        <div class="row m0">
+                            <div class="col-xs-12 col-sm-12 ff11"><div class="colorfff t40 mb20">Bienvenido Andrés a Invierta YA</div></div>
+                        </div>
 
                         <div class="row m0">
                             <div class="col-xs-12 col-sm-12">
@@ -104,6 +107,11 @@
 
 
                     <div class="dBeycker2 dN">
+
+                        <div class="row m0">
+                            <div class="col-xs-12 col-sm-12 ff11 mb20"><div class="dIB bBeycker cP"><img class="bGray3 rr50" style="padding: 5px 9px" src="resources/img/icons/arR.png"> &nbsp; <div class="colorfff t40 dIB vcenter">Bienvenido Andrés a Invierta YA</div></div></div>
+                        </div>
+
                         <div class="row m0">
                             <div class="col-xs-12 col-sm-12">
 
@@ -240,7 +248,7 @@
                                             
                                             <?php for($tt=0; $tt<5; $tt++){ ?>
                                             <div class="col-xs-4 col-sm-4 mb20" style="padding-left:0">
-                                                <div class=" bWhite rr5 p20">
+                                                <div class=" bWhite rr5 p20 bykrHober3">
                                                     <div class="color999 mb5">Contribuir</div>
                                                     <div class="mb20"><span class="ff2 t24">$5.00</span>&nbsp;<span class="t16">COP o más</span></div>
                                                     <div class="ff2 t20 mb5">Título Recompensa</div>

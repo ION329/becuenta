@@ -18,21 +18,25 @@
                 Perfil
             </a>
             <a href="#/mi-proyecto" class="btMenPpe dB taC p20 colorfff">
+            	<div class="taR"><span class="colorfff bAzulBG t12 rr50" style="padding: 10px 3px; margin-right: 17px;">100%</span></div>
                 <img src="resources/img/icons/a2.png" />
                 <br /><br />
                 Mi Proyecto
             </a>
             <a href="#/mis-cursos" class="btMenPpe dB taC p20 colorfff">
+            	<div class="taR"><span class="colorfff bVerde2 t12 rr50" style="padding: 10px 15px; margin-right: 17px;">5</span></div>
                 <img src="resources/img/icons/a3.png" />
                 <br /><br />
                 Mis Cursos
             </a>
             <a href="#/foros" class="btMenPpe dB taC p20 colorfff">
+            	<div class="taR"><span class="colorfff bYell t12 rr50" style="padding: 10px 15px; margin-right: 17px;">8</span></div>
                 <img src="resources/img/icons/a4.png" />
                 <br /><br />
                 Foros
             </a>
             <a href="#/eventos" class="btMenPpe dB taC p20 colorfff">
+            	<div class="taR"><span class="colorfff bRed t12 rr50" style="padding: 10px 15px; margin-right: 17px;">8</span></div>
                 <img src="resources/img/icons/a5.png" />
                 <br /><br />
                 Eventos
@@ -150,7 +154,7 @@
                                             <span class="colorfff bVerde5 rr20 ff2" style="padding: 3px 9px">5</span>
                                         </div>
                                         <div class="tabIn taR">
-                                            <span class="bWhite colorAzul rr5 cP dIB" style="padding: 5px 10px">Ver todo</span>
+                                            <a class="bWhite colorAzul rr5 cP dIB" style="padding: 5px 10px" href="#/mis-cursos">Ver todo</a>
                                         </div>
                                     </div>
                                 </div>
@@ -238,7 +242,7 @@
                                             <span class="ff2 t20">Mentores</span>
                                         </div>
                                         <div class="tabIn taR">
-                                            <span class="bWhite colorAzul rr5 cP dIB" style="padding: 5px 10px">Ver todo</span>
+                                            <a class="bWhite colorAzul rr5 cP dIB" style="padding: 5px 10px" href="#/mentoria">Ver todo</a>
                                         </div>
                                     </div>
                                 </div>
@@ -257,7 +261,7 @@
                                             <span class="ff2 t20">Próximos eventos</span>
                                         </div>
                                         <div class="tabIn taR">
-                                            <span class="bWhite colorAzul rr5 cP dIB" style="padding: 5px 10px">Ver todo</span>
+                                            <a class="bWhite colorAzul rr5 cP dIB" style="padding: 5px 10px" href="#/eventos">Ver todo</a>
                                         </div>
                                     </div>
                                 </div>

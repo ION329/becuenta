@@ -18,16 +18,19 @@
                 Mi Campaña
             </a>
             <a href="#/inviertaya/inversiones" class="btMenPpeYellow dB taC p20 colorfff">
+                <div class="taR"><span class="colorfff bAzulBG t12 rr50" style="padding: 10px 3px; margin-right: 17px;">100%</span></div>
                 <img src="resources/img/icons/a2.png" />
                 <br /><br />
                 Inversiones
             </a>
             <a href="#/inviertaya/actividad" class="btMenPpeYellow dB taC p20 colorfff">
+                <div class="taR"><span class="colorfff bVerde2 t12 rr50" style="padding: 10px 15px; margin-right: 17px;">5</span></div>
                 <img src="resources/img/icons/a3.png" />
                 <br /><br />
                 Actividad
             </a>
             <a href="#/inviertaya/recompensas" class="btMenPpeYellow dB taC p20 colorfff">
+                <div class="taR"><span class="colorfff bVerde2 t12 rr50" style="padding: 10px 15px; margin-right: 17px;">5</span></div>
                 <img src="resources/img/icons/a3.png" />
                 <br /><br />
                 Recompensas
@@ -267,7 +270,7 @@
                                         
                                         <?php for($tt=0; $tt<5; $tt++){ ?>
                                         <div class="col-xs-4 col-sm-4 mb20" style="padding-left:0">
-                                            <div class=" bWhite rr5 p20">
+                                            <div class=" bWhite rr5 p20 bykrHober3">
                                                 <div class="color999 mb5">Contribuir</div>
                                                 <div class="mb20"><span class="ff2 t24">$5.00</span>&nbsp;<span class="t16">COP o más</span></div>
                                                 <div class="ff2 t20 mb5">Título Recompensa</div>

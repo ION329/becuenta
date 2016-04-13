@@ -23,6 +23,7 @@
                 Agenda
             </a>
             <a href="#/mentoria/cursos" class="btMenPpeBlue selo dB taC p20 colorfff">
+                <div class="taR"><span class="colorfff bVerde2 t12 rr50" style="padding: 10px 15px; margin-right: 17px;">5</span></div>
                 <img src="resources/img/icons/a33.png" />
                 <br /><br />
                 Cursos creados

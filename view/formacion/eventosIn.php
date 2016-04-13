@@ -18,21 +18,25 @@
                 Perfil
             </a>
             <a href="#/mi-proyecto" class="btMenPpe dB taC p20 colorfff">
+                <div class="taR"><span class="colorfff bAzulBG t12 rr50" style="padding: 10px 3px; margin-right: 17px;">100%</span></div>
                 <img src="resources/img/icons/a2.png" />
                 <br /><br />
                 Mi Proyecto
             </a>
             <a href="#/mis-cursos" class="btMenPpe dB taC p20 colorfff">
+                <div class="taR"><span class="colorfff bVerde2 t12 rr50" style="padding: 10px 15px; margin-right: 17px;">5</span></div>
                 <img src="resources/img/icons/a3.png" />
                 <br /><br />
                 Mis Cursos
             </a>
             <a href="#/foros" class="btMenPpe dB taC p20 colorfff">
+                <div class="taR"><span class="colorfff bYell t12 rr50" style="padding: 10px 15px; margin-right: 17px;">8</span></div>
                 <img src="resources/img/icons/a4.png" />
                 <br /><br />
                 Foros
             </a>
             <a href="#/eventos" class="btMenPpe selo dB taC p20 colorfff">
+                <div class="taR"><span class="colorfff bRed t12 rr50" style="padding: 10px 15px; margin-right: 17px;">8</span></div>
                 <img src="resources/img/icons/a55.png" />
                 <br /><br />
                 Eventos
@@ -106,7 +110,7 @@
                         <div class="col-xs-4 col-sm-4" style="padding-left: 0">
                             <div class="bWhite p10">
                                 <div class="p10 ff2 mb10">RECOMENDADOS</div>
-                                <div class="row m0 p10 bGray">
+                                <div class="row m0 p10 bykrHober cP">
                                     <div class="col-xs-4 col-sm-4 p0">
                                         <img src="resources/img/temporal/huella.png" />
                                     </div>
@@ -116,7 +120,7 @@
                                     </div>
                                 </div>
                                 
-                                <div class="row m0 p10">
+                                <div class="row m0 p10 bykrHober cP">
                                     <div class="col-xs-4 col-sm-4 p0">
                                         <img src="resources/img/temporal/persona.png" />
                                     </div>
@@ -126,7 +130,7 @@
                                     </div>
                                 </div>
 
-                                <div class="row m0 p10">
+                                <div class="row m0 p10 bykrHober cP">
                                     <div class="col-xs-4 col-sm-4 p0">
                                         <img src="resources/img/temporal/persona.png" />
                                     </div>

@@ -18,21 +18,25 @@
                 Perfil
             </a>
             <a href="#/mi-proyecto" class="btMenPpe dB taC p20 colorfff">
+                <div class="taR"><span class="colorfff bAzulBG t12 rr50" style="padding: 10px 3px; margin-right: 17px;">100%</span></div>
                 <img src="resources/img/icons/a2.png" />
                 <br /><br />
                 Mi Proyecto
             </a>
             <a href="#/mis-cursos" class="btMenPpe dB taC p20 colorfff">
+                <div class="taR"><span class="colorfff bVerde2 t12 rr50" style="padding: 10px 15px; margin-right: 17px;">5</span></div>
                 <img src="resources/img/icons/a3.png" />
                 <br /><br />
                 Mis Cursos
             </a>
             <a href="#/foros" class="btMenPpe selo dB taC p20 colorfff">
+                <div class="taR"><span class="colorfff bYell t12 rr50" style="padding: 10px 15px; margin-right: 17px;">8</span></div>
                 <img src="resources/img/icons/a44.png" />
                 <br /><br />
                 Foros
             </a>
             <a href="#/eventos" class="btMenPpe dB taC p20 colorfff">
+                <div class="taR"><span class="colorfff bRed t12 rr50" style="padding: 10px 15px; margin-right: 17px;">8</span></div>
                 <img src="resources/img/icons/a5.png" />
                 <br /><br />
                 Eventos
@@ -120,8 +124,8 @@
                     <div class="dBeycker2 dCambiar1 dN">
                         <div class="row m0">
                             <div class="col-xs-12 col-sm-12 mb20">
-                                <div class="color333 cP bBeycker t16">
-                                    <img src="resources/img/icons/arR.png" class="bGray3 rr50" style="padding: 2px 6px">
+                                <div class="color666 cP bBeycker dIB t16">
+                                    <img src="resources/img/icons/arR.png" class="bGray3 rr50" style="padding: 2px 6px">&nbsp;
                                     <span class="vcenter">Volver a foros</span>
                                 </div>
                             </div>
@@ -150,11 +154,11 @@
                                 </div>
                             </div>
                         </div>
-
+                        <?php for($zz=0; $zz<3; $zz++){ ?>
                         <div class="row m0">
-                            <?php for($mm=0; $mm<9; $mm++){ ?>
+                            <?php for($mm=0; $mm<3; $mm++){ ?>
                             <div class="col-xs-4 col-sm-4 mb20 cP bCambiar">
-                                <div class="bWhite" style="border-radius: 2px">
+                                <div class="bWhite cP bykrHober3" style="border-radius: 2px;">
                                     <div class="row m0 p20" style="border-bottom: 1px solid #ccc">
                                         <div class="col-xs-2 col-sm-2 p0">
                                             <img src="resources/img/demo/profesor1.png">
@@ -179,15 +183,15 @@
                             </div>
                             <?php } ?>
                         </div>
-
+                        <?php } ?>
                     </div>
 
                     <div class="dCambiar2 dN">
                         <div class="row m0">
                             <div class="col-xs-12 col-sm-12 mb20">
-                                <div class="color333 cP bCambiar t16">
-                                    <img src="resources/img/icons/arR.png" class="bGray3 rr50" style="padding: 2px 6px">
-                                    <span class="vcenter">Crear Palabras Claves con Google AdWords</span>
+                                <div class="color333 cP bCambiar t16 dIB">
+                                    <img src="resources/img/icons/arR.png" class="bGray3 rr50" style="padding: 2px 6px">&nbsp;
+                                    <span class="vcenter color666">Crear Palabras Claves con Google AdWords</span>
                                 </div>
                             </div>
                         </div>

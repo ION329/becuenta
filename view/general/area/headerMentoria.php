@@ -10,11 +10,11 @@
     
     <div class="col-sm-2 col-xs-2 p0 hH bWhite cP bykrHober" style="border-left: 1px solid #ddd">
     	<a href="#/">
-        <div class="tabAll">
-        	<div class="tabIn t24 ff2 p20 selMenUp">
-            	Formación
-        	</div>
-        </div>
+            <div class="tabAll">
+            	<div class="tabIn t24 ff1 color999 p20">
+                	Formación
+            	</div>
+            </div>
         </a>
     </div>
     
@@ -31,7 +31,7 @@
     <div class="col-sm-2 col-xs-2 p0 hH bWhite cP bykrHober" style="border-left: 1px solid #ddd; border-right: 1px solid #ddd">
     	<a href="#/mentoria">
             <div class="tabAll">
-            	<div class="tabIn t24 ff1 color999 p20">
+            	<div class="tabIn t24 ff2 p20 selMenUp">
                 	Mentoría
             	</div>
             </div>
