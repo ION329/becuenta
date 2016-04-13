@@ -399,7 +399,7 @@
 
 						<div class="row m0 colorfff" style="margin-bottom: 20px">
 							<div class="col-xs-12 col-sm-12">
-								<div class="bGray4 p20">
+								<div class="bGray5 p20">
 									<div class="row m0" style="margin-bottom: 20px">
 										<div class="col-xs-2 col-sm-2 p0">
 											<img src="resources/img/temporal/unidad1.jpg" />

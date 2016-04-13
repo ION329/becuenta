@@ -144,7 +144,7 @@
 
                         <div class="row m0 colorfff" style="margin-bottom: 20px">
                             <div class="col-xs-12 col-sm-12">
-                                <div class="bGray4 p20 colorfff">
+                                <div class="bGray5 p20 colorfff">
                                     <div class="row m0">
                                         <div class="col-xs-6 col-sm-6 p0">
                                             <div class="ff2 t24 mb10">Google AdWords para principiantes</div>
