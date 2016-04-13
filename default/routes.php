@@ -8,7 +8,6 @@
 <link rel="stylesheet" type="text/css" href="cods/css/normalize.css" />
 <link rel="stylesheet" type="text/css" href="cods/css/component.css" />
 
-
 <script src="cods/js/jquery-1.11.3.min.js"></script>
 <script src="cods/js/jquery-migrate-1.2.1.min.js"></script>
 <script src="cods/js/bootstrap.js"></script>

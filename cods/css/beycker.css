@@ -73,6 +73,12 @@
 .minMensaje2 								{ background-color: white; }
 .leyendoMensaje2							{ background-color: #fcefc4; }
 
+.minMensaje3 								{ border-right:solid 3px transparent !important; }
+.leyendoMensaje3							{ border-right:solid 3px #4184f3 !important; }
+
+.minMensaje4 								{ border-right:solid 3px transparent !important; }
+.leyendoMensaje4							{ border-right:solid 3px #4184f3 !important; }
+
 .selecStd2 {
     border: 1px solid #ccc;
     padding: 5px 10px;
@@ -103,3 +109,31 @@
 
 .barraAmarilla								{ background:#25b76c; width:100%; height:auto; position:absolute; z-index:10 }
 .barraRoja									{ background:#9a000f; width:100%; height:auto; position:absolute; z-index:10 }
+
+/* CLASES DE FERNANDO */
+
+span.fv_cur {
+    border-radius: 10px;
+    float: left;
+    height: 10px;
+}
+
+.bOrange2{
+	background-color: #f66c32;
+}
+
+.bAzulBG{
+	background-color: #00b3e8;
+}
+
+.bGray5{
+	background-color: #7f95a3;
+}
+
+a.acordion-bykr {
+    padding: 15px 30px 15px 10px !important;
+}
+
+a.acordion-bykr[aria-expanded="true"] {
+    background-image: url("../../resources/img/icons/arFaq11.png") !important;
+}

@@ -41,7 +41,7 @@
                 <div class="generalMin-ojo">
                 
                 <div class="row m0" style="margin-bottom: 20px;">
-                    <div class="col-xs-3 col-sm-3 vcenter ff11"><div class="colorfff t40">Agenda</div></div><!--
+                    <div class="col-xs-3 col-sm-3 vcenter ff11"><div class="colorfff t40 ff0">Agenda</div></div><!--
                 --><div class="col-xs-7 col-sm-7 vcenter">
                         <div class="btn-group" style="width:90px;">
                             <button class="btn btn-primary bGray btn-bykr rr20" style="border-color:#ccc;" type="button"><img width="10" src="resources/img/icons/arR.png"></button>

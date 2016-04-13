@@ -43,7 +43,7 @@
                 <div class="dBeycker1">
                 
                 <div class="row m0" style="margin-bottom: 40px;">
-                    <div class="col-xs-6 col-sm-6 ff11 vcenter"><div class="colorfff t40">Panel de Cursos</div></div><!--
+                    <div class="col-xs-6 col-sm-6 ff11 vcenter"><div class="colorfff t40 ff0">Panel de Cursos</div></div><!--
                 --><div class="col-xs-6 col-sm-6 vcenter taR">
                         <a class="bBasic3 rr5 taC fv_btn2x" href="">Crear un Curso</a>
                     </div>
@@ -93,7 +93,7 @@
                 <div class="dBeycker2 dN">
                     <div class="row m0">
                         <div class="col-xs-12 col-sm-12 mb20">
-                            <span class="color333 mb20 cP bBeycker t16"><img src="resources/img/icons/arR.png" /> &nbsp; Panel de Cursos</span>
+                            <span class="color333 mb20 cP bBeycker t16"><img class="bGray3 rr50" style="padding: 2px 6px" src="resources/img/icons/arR.png"> &nbsp; Panel de Cursos</span>
                         </div>
                     </div>
 

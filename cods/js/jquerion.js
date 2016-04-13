@@ -72,6 +72,16 @@ var Ion = {
 				$(this).addClass("leyendoMensaje2");
 			});
 
+			$(".minMensaje3").live('click', function() {
+				$('.minMensaje3').removeClass("leyendoMensaje3");
+				$(this).addClass("leyendoMensaje3");
+			});
+
+			$(".minMensaje4").live('click', function() {
+				$('.minMensaje4').removeClass("leyendoMensaje4");
+				$(this).addClass("leyendoMensaje4");
+			});
+
 			$(".optMenLat").live('click', function() {
 				$('.optMenLat').removeClass("selli");
 				$(this).addClass("selli");

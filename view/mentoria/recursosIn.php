@@ -41,7 +41,7 @@
                 <div class="generalMin-ojo">
                 
                 <div class="row m0" style="margin-bottom: 40px;">
-                    <div class="col-xs-6 col-sm-6 vcenter ff11"><div class="colorfff t40">Mis Recursos  </div></div><!--
+                    <div class="col-xs-6 col-sm-6 vcenter ff0"><div class="colorfff t40">Mis Recursos  </div></div><!--
                 --><div class="col-xs-6 col-sm-6 taR vcenter">
                         <a class="bBasic3 rr5 taC fv_btn2x" href="">Subir un Archivo</a>
                     </div>

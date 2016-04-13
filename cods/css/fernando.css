@@ -1,0 +1,308 @@
+/* BE / perfil */
+
+.fer {
+	width: 100%;
+  height: 100px;
+	background-color: red;
+	float: right;
+  float: left;
+}
+
+.fv_z20 { z-index: 20; }
+
+.fv_blanco { color: #fff; }
+.fv_blanco a { color: #fff; }
+.fv_blancoBg { background-color: #fff; }
+
+.fv_azulHr { background-color: #3b96cf; height: 1px;  border: 0; margin: 20px 0 15px 0;}
+.fv_azulPro1 { color: #a5d5f4; }
+.fv_azulPro2 { color: #cfe9fa; }
+
+.fv_tit { color: #2b2b2b; }
+.fv_sub { color: #5f5f5f; }
+.fv_sub b { color: #e06430; }
+
+.fv_gris1 { background-color: #7f95a3; }
+.fv_gris1a { color: #7f95a3; }
+
+.fv_por1 { color: #2b5b86; }
+.fv_por1 a { text-decoration: underline; }
+
+.fv_verBtn { background-color: #25b76c; }
+.fv_grFondo1 { background-color: #f4f4f4; }
+.fv_grFondo2 { color: #edeff5; }
+.fv_grFondo2x { background-color: #edeff5; }
+.fv_titNeg { color: #384349; }
+.fv_texAr { color: #686666; }
+.fv_azulVt { color: #317ef6; }
+.fv_rojoCal { background-color: #bf0411; }
+.fv_calMes { background-color: #dfdfdf; }
+.fv_amar1 { background-color: #f1cf00; }
+
+.fv_pT30 { padding-top: 35px; }
+.fv_pT25 { padding-top: 25px; }
+.fv_pT20 { padding-top: 20px; }
+.fv_pT10 { padding-top: 10px; }
+.fv_pT5 { padding-top: 5px; }
+
+.fv_pL5 { padding-left: 5px; }
+.fv_pL10 { padding-left: 10px; }
+.fv_pR60 { padding-right: 60px; }
+
+.fv_p3 { padding: 3px; }
+
+.fv_afcpme div { display: inline-block; height: 120px; margin-right: -4px;}
+
+.fv_afcpme { background: url("../../resources/img/demo/progreso1a.png") center center no-repeat;
+ width: 100%; font-weight: bold; }
+
+.fv_afcpmeBtn120 { width: 120px; }
+.fv_afcpmeBtn240 { width: 240px; }
+.fv_afcpmeBtn240x { width: 230px; }
+
+.fv_afcpme1 { }
+.fv_afcpme2 { }
+.fv_afcpme3 { }
+.fv_afcpme0 { }
+.fv_afcpme4 { }
+.fv_afcpme5 { }
+.fv_afcpme6 { }
+
+.fv_bR3 { -webkit-border-radius: 4px; border-radius: 4px; }
+
+.fv_mR20 { margin-right: 10px; }
+
+.fv_grisHr { background-color: #d8d8d8; height: 1px;  border: 0;}
+
+.fv_w115 { width: 115px; padding-left: 15px; font-weight: bold; }
+
+.fv_btn1a {
+  width: 185px !important;
+  background-color: #25b76c !important;
+  color: #fff !important;
+  text-transform: none !important;
+  font-weight: 400 !important;
+  border: none !important;
+  padding: 8px 10px 8px 10px;
+}
+.fv_btn1a:hover {
+  background-color: #5a5a5a !important;
+}
+
+.fv_mH285 { min-height: 285px; }
+.fv_mH412 { min-height: 412px; }
+.fv_mH400 { min-height: 400px; }
+.fv_mH80 { min-height: 80px; }
+
+.fv_mT5 { margin-top: 5px; }
+.fv_mT10 { margin-top: 10px; }
+.fv_mT15 { margin-top: 15px !important; }
+.fv_mT20 { margin-top: 20px; }
+.fv_mT30 { margin-top: 30px; }
+.fv_mT50 { margin-top: 50px; }
+
+.fv_mR10 { margin-right: 10px; }
+
+.fv_60m { background: url("../../resources/img/icons/tempo.png") left bottom no-repeat; padding-left: 25px; }
+
+.fv_sello img { margin-top: -30px; }
+.fv_sello ul li { display: inline-block; padding-left: 55px;}
+
+
+/* circulos colores con porcentaje dentro para el menu lateral */
+
+.fv_ci {
+  border-radius: 50%; 
+  width: 32px; height: 32px;
+  font-size: 10px;  
+  padding: 8px 0px; position: absolute;
+  margin-left: 75px;
+}
+
+.fv_mp { background-color: #61b2e5; }
+.fv_mc { background-color: #25b76c; }
+.fv_fo { background-color: #f1cf00; color: #000; }
+.fv_ev { background-color: #bf0411; }
+
+/* */
+
+.fv_w80 { width:165px; }
+
+.fv_info ul li { list-style: none;}
+
+/* actividades recientes */
+
+.fv_rr3 { -webkit-border-radius: 3px; border-radius: 3px; }
+
+.fv_ar1 { margin-top: 10px; }
+.fv_ar { margin-top: 20px; }
+
+.fv_ar_act { border: 1px solid #25b76c; }
+.fv_ar_act div, .fv_ar_nor div { display: inline-block; }
+
+.fv_ar_nor { border: 0px; }
+
+.fv_arHor { padding: 0 10px 0 10px;}
+
+.fv_ar_act1 { border-radius: 50%; width: 22px; height: 22px; margin: 6px 10px; }
+
+.fv_ar_act1 b { vertical-align: -25%; }
+
+.fv_ar_bord { border: 1px solid #e6e6e6; }
+
+/* mis cursos */
+
+.fv_Mc1 div { display: inline-block; vertical-align: middle; }
+.fv_Mc1 { width: 100%; }
+.fv_vt { width: 80px; }
+.fv_bB1 { border-bottom: 1px solid #e6e6e6; height: 75px; } 
+.fv_bB2 { border-bottom: 1px solid #e6e6e6; } 
+
+.fv_por {  }
+
+.fv_mmp1 { margin-top: 7px; }
+.fv_mmp2 { margin-bottom: 7px; }
+
+.fv_cur { }
+.fv_cur img { float: left; padding: 3px; margin-right: 10px; }
+.fv_cur span { float: left; height: 10px; border-radius: 10px; }
+.fv_cur ul li { list-style: none; margin-bottom: 5px; }
+.fv_cur ul { padding-top: 10px; }
+
+.fv_cur1 { background-color: #090053; width:100px; }
+.fv_cur2 { background-color: #1d7044; width:130px; }
+.fv_cur3 { background-color: #ffa500; width:50px; }
+.fv_cur4 { background-color: #3d5a98; width:150px; }
+
+.fv_curx1 { margin-bottom: 45px !important; border-radius: 5px; }
+.fv_curx2 { margin-bottom: 41px !important; border-radius: 5px; }
+.fv_curx3 { margin-bottom: 10px !important; border-radius: 5px; }
+
+.fv_cent { display: inline-block; vertical-align: middle; }
+
+.fv_der1, .fv_izq1 { width: 12px; height: 12px; text-align: center; padding-top: 20%; cursor: pointer;}
+.fv_der1 { margin-left: 70px; }
+.fv_izq1 { margin-right: 70px; }
+.fv_mentor { margin-top: 5px; }
+
+.fv_calen { min-height: 333px; padding: 10px; }
+
+.fv_pef { max-width: 80%; float: right; }
+.fv_pef span { color: #bf0411; }
+.fv_pef p { margin-top: 5px; }
+.fv_ment { color: #686666; }
+
+
+/* mi proyecto / progreso? */
+
+.fv_tabs1 li { display: inline-block; }
+
+.fv_tabs1a { max-width: 550px; display: inline-block; background-color: #fff; margin: 0 20px 20px 0;  border-radius: 3px; height: 200px;}
+
+.tab { float: left; width: 100%; }
+.tab-content { display: none; }
+#tab-1 { display: block; }
+
+.tabs-menu { height: 30px; clear: both; font-size: 18px; margin-bottom: 45px; }
+.tabs-menu li { padding: 10px 5px 10px 5px; float: left; margin-right: 30px; color: #fff; }
+.tabs-menu li.current { position: relative; background-color: #384349; z-index: 5;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px; }
+.tabs-menu li a { padding: 10px; text-transform: uppercase; color: #fff; text-decoration: none; }
+.tabs-menu .current a { color: #fff; font-weight: bolder; }
+
+.fv_hr1 { margin:  15px 0 18px 0; width: 100%; }
+
+.fv_brUni { 
+  width: 60%;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  -webkit-box-shadow: inset 0 0px 0px rgba(0, 0, 0, .1);
+  box-shadow: inset 0 0px 0px rgba(0, 0, 0, .1);
+  height: 10px;
+}
+
+.fv_brUniX { 
+  width: 30%;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  -webkit-box-shadow: inset 0 0px 0px rgba(0, 0, 0, .1);
+  box-shadow: inset 0 0px 0px rgba(0, 0, 0, .1);
+  height: 10px;
+}
+.fv_tabs1a span { float: right; margin-top: -35px; font-size: 16px; color: #384349; font-weight: bolder; }
+
+.fv_brUni1 {
+    font-weight: bolder;
+    text-transform: uppercase;
+    font-size: 14px;
+    background-color: #7f95a3;
+    width: 105px; color: #fff;
+    padding: 5px 5px 5px 10px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+}
+.fv_brUni1a { font-size: 20px; line-height: 22px; font-weight: 300; }
+
+.fv_brUni1b { 
+  font-size: 14px;
+  line-height: 15px;
+  font-weight: 300;
+  display: inline-block;
+  padding: 0 10px 0 0;
+}
+.fv_brUni1b img { padding: 0 5px 0 5px; }
+.fv_brUni1c { background-color: #25b76c; height: 10px; }
+
+.fv_brUni1d { background-color: #104694; height: 10px; }
+
+.fv_mca1 { float: right; margin-top: -20px; }
+.fv_mca1 li { display: inline-block;  padding-left: 50px; text-align: center; color: #fff;}
+.fv_mca1 h1 { font-size: 40px; font-weight: 400; margin-bottom: 3px; }
+
+.fv_mb50 { margin-bottom: 50px; }
+.fv_mb60 { margin-bottom: 60px; }
+
+.fv_avtp { }
+.fv_avtp span {
+  float: right;
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  margin-top: -35px;
+}
+.fv_avtpx { margin-top: 15px; }
+.fv_progreso { width: auto; }
+
+
+/* mentores */
+
+.fv_mentores { 
+  width: 328px;
+  min-height: 412px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px; 
+  text-align: center;
+  margin-right: 20px;
+  margin-bottom: 20px;
+ }
+
+ .fv_mentores p { width: 90%; }
+
+ .fv_mentores img { padding-bottom: 10px; }
+
+ .fv_mentoresx1 { width: 100%; text-align: left; }
+.fv_mentoresx1 p { float: left; color: #7f95a3; }
+.fv_mentoresx1 span { float: right; color: #104694; font-size: 18px; font-weight: bolder;}
+
+.fv_mentoresx2 { padding: 30px 0 30px 0; height: 70px;  clear: both;}
+
+
+/* mis cursos */
+
+.fv_miscursos h1 { color: #fff; font-size: 40px; font-weight: 400; margin: 0px; }

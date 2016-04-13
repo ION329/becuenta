@@ -40,14 +40,14 @@
             <div class="ionix" style="padding-top:20px;">
                 <div class="generalMin-ojo">
                 
-                <div class="dBeycker1">
+                <div class="dBeycker1 ff0">
 
                     <div class="row m0">
                         <div class="col-xs-12 col-sm-12 ff11"><div class="colorfff t40 mb20">Panel del Mentor</div></div>
                     </div>
                     <div class="row m0" style="margin-bottom: 20px">
                         <div class="col-xs-8 col-sm-8 vcenter">
-                            <div class="bWhite p20 rr5">
+                            <div class="bWhite p20 rr5" style="min-height: 268px">
 
                                 <div class="row m0">
                                     <div class="col-xs-12 col-sm-12">
@@ -105,7 +105,7 @@
                                     <div class="row m0 p10 bWhite rr5" style="margin-bottom:10px; border: solid 1px #25b76c;">
                                         <div class="tab">
                                             <div class="tabIn">
-                                                <span class="colorfff bVerde5 rr5 p3">18:50</span>&nbsp;
+                                                <span class="colorfff bVerde5 rr5 dIB" style="padding: 3px 5px">18:50</span>&nbsp;
                                                 <span class="color666">Jueves, Febrero 25</span>
                                             </div>
                                             <div class="tabIn taR">
@@ -117,7 +117,7 @@
                                     <div class="row m0 p10 bWhite rr5" style="margin-bottom:10px">
                                         <div class="tab">
                                             <div class="tabIn">
-                                                <span class="colorfff bGray4 rr5 p3">18:50</span>&nbsp;
+                                                <span class="colorfff bGray4 rr5 dIB" style="padding: 3px 5px">18:50</span>&nbsp;
                                                 <span class="color666">Jueves, Febrero 25</span>
                                             </div>
                                             <div class="tabIn taR">
@@ -129,7 +129,7 @@
                                     <div class="row m0 p10 bWhite rr5" style="margin-bottom:10px">
                                         <div class="tab">
                                             <div class="tabIn">
-                                                <span class="colorfff bGray4 rr5 p3">18:50</span>&nbsp;
+                                                <span class="colorfff bGray4 rr5 dIB" style="padding: 3px 5px">18:50</span>&nbsp;
                                                 <span class="color666">Jueves, Febrero 25</span>
                                             </div>
                                             <div class="tabIn taR">
